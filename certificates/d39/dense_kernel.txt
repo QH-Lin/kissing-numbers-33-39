@@ -1,0 +1,19 @@
+# generator matrix of a binary linear [39,15,12] code (one row per line, hex, bit i = coordinate i)
+# shortened quadratic-residue kernel; rows taken unchanged from data/d39_kernel.txt of the Qiushi Engine repository
+# (Yang et al., arXiv:2609.35051; https://github.com/Oxelra-AI/Qiushi-Engine-Kissing-Number-Research, CC BY 4.0)
+$BASE=16
+4000152727
+2000C0DE0B
+1000AA229D
+08009F5CD6
+04004FAE6B
+0200ED9AAD
+0100BC80CE
+00805E4067
+0040E56DAB
+0020B8FB4D
+001096303E
+00084B181F
+0004EFC197
+0002BDAD53
+0001949B31

@@ -1,0 +1,14 @@
+# 10 coset representatives; the dense layer is the union of the 10 cosets r + C of the kernel C (327680 words,
+# minimum distance 10). Rows taken unchanged from data/d39_representatives.txt of the Qiushi Engine repository
+# (Yang et al., arXiv:2609.35051, CC BY 4.0); only these comment lines are new. Hex, bit i = coordinate i.
+$BASE=16
+0000000000
+00000ADCFB
+0000F7795F
+0000740E29
+0000940DFF
+00003B66AB
+00006CD301
+00004709D4
+000098A926
+0000D23688

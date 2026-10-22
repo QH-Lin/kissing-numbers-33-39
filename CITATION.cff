@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use these certificates, please cite them as below."
+type: dataset
+title: "New lower bounds for kissing numbers in dimensions 33 to 39: explicit certificates"
+authors:
+  - family-names: Lin
+    given-names: Qihong
+    email: linqihong001@qq.com
+version: 1.0.0
+date-released: 2026-10-22
+license: CC-BY-4.0
+repository-code: "https://github.com/QH-Lin/kissing-numbers-33-39"
+keywords:
+  - kissing number
+  - sphere packing
+  - constant-weight codes
+  - Leech lattice
+  - lower bounds

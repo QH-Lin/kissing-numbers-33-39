@@ -1,0 +1,19 @@
+{
+  "title": "New lower bounds for kissing numbers in dimensions 33 to 39: explicit certificates",
+  "upload_type": "dataset",
+  "access_right": "open",
+  "license": "cc-by-4.0",
+  "creators": [
+    {
+      "name": "Lin, Qihong"
+    }
+  ],
+  "description": "<p>Explicit, independently checkable kissing configurations giving new lower bounds &tau;<sub>33</sub> &ge; 370240, &tau;<sub>34</sub> &ge; 390980, &tau;<sub>35</sub> &ge; 415308, &tau;<sub>37</sub> &ge; 499816, &tau;<sub>38</sub> &ge; 605322 and &tau;<sub>39</sub> &ge; 768916 (previous best 364736, 384836, 409676, 498024, 591900 and 763668), and new constant-weight codes A(33,8,8) &ge; 1852, A(34,8,8) &ge; 2013, A(35,8,8) &ge; 2202, A(37,8,8) &ge; 2860, A(38,8,8) &ge; 3088 and A(39,8,8) &ge; 3424.</p><p>Dimensions 33&ndash;35, 37 and 39 use the Edel&ndash;Rains&ndash;Sloane three-layer construction with the new codes as middle layer. Dimension 38 adds 6855 antipodal pairs of norm-48 Leech vectors to the empty equator of Kravatskiy's 591612-point configuration. The archive contains the certificates and verification programs; every configuration has also been checked by brute force over all pairs in exact integer arithmetic.</p>",
+  "keywords": [
+    "kissing number",
+    "sphere packing",
+    "constant-weight codes",
+    "Leech lattice",
+    "lower bounds"
+  ]
+}
