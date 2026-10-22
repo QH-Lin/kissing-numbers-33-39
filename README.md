@@ -4,6 +4,8 @@ Explicit, independently checkable kissing configurations that improve the best k
 
 Qihong Lin (linqihong001@qq.com), 2026-10-22
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23554808.svg)](https://doi.org/10.5281/zenodo.23554808) — Zenodo archive, all versions: [doi:10.5281/zenodo.23554808](https://doi.org/10.5281/zenodo.23554808)
+
 Dimension 32 (τ₃₂ ≥ 352320, A(32, 8, 8) ≥ 1713) has its own repository: [QH-Lin/kissing-number-32](https://github.com/QH-Lin/kissing-number-32).
 
 ## Results
@@ -98,7 +100,7 @@ For the support families: maximum independent set search in the graph on all 8-s
 
 ## Citation
 
-Qihong Lin, *New lower bounds for kissing numbers in dimensions 33 to 39: explicit certificates*, 2026, https://github.com/QH-Lin/kissing-numbers-33-39. See also `CITATION.cff`.
+Please cite the Zenodo archive: Qihong Lin, *New lower bounds for kissing numbers in dimensions 33 to 39: explicit certificates*, doi:[10.5281/zenodo.23554808](https://doi.org/10.5281/zenodo.23554808). See also `CITATION.cff`.
 
 ## License
 
